@@ -43,6 +43,11 @@ p.lead {
   font-weight: 400;
 }
 
+p.title {
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
@@ -107,6 +112,16 @@ p.lead {
     height: 40px;
     width: 40px;
     font-size: 40px;
+  }
+}
+
+.projects-heading {
+  margin-top: 15px;
+}
+
+.portfolio {
+  a {
+    text-decoration: none;
   }
 }
 

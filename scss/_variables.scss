@@ -25,9 +25,12 @@ $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
 
-$primary:       $orange !default;
-$primary-alpha: rgba(216, 116, 77, 0.9);
-$secondary:     $gray-600 !default;
+// Color palette source: https://colorhunt.co/palette/168853
+
+$primary:       #35495e !default;
+$secondary:     #347474 !default;
+$accent:        #63b7af;
+$accent-alpha:  rgba(99, 183, 175, 0.9) !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;

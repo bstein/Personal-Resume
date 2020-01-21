@@ -71,7 +71,7 @@ p.title {
       margin-right: 0;
     }
     &:hover {
-      background-color: $primary;
+      background-color: $accent;
     }
   }
 }
@@ -139,7 +139,7 @@ p.title {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: $primary-alpha;
+  background-color: $accent-alpha;
 }
 
 .portfolio-item .portfolio-item-caption:hover {

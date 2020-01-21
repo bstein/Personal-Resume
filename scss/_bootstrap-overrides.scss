@@ -7,10 +7,10 @@
 }
 
 a {
-  color: $primary;
+  color: $secondary;
   &:hover,
   &:focus,
   &:active {
-    color: darken($primary, 15%);
+    color: darken($secondary, 15%);
   }
 }

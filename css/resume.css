@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Resume v5.0.7 (https://baileystein.com/)
- * Copyright 2013-2019 Bailey Stein
+ * Copyright 2013-2020 Bailey Stein
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 
@@ -78,7 +78,7 @@ p.title {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: #63b7af;
 }
 
 .back-button {
@@ -158,7 +158,7 @@ p.title {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(216, 116, 77, 0.9);
+  background-color: rgba(99, 183, 175, 0.9);
 }
 
 .portfolio-item .portfolio-item-caption:hover {
@@ -194,7 +194,7 @@ p.title {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #516f8f;
 }
 
 @media (min-width: 992px) {
@@ -280,17 +280,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #35495e !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #35495e !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #347474;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #1c3f3f;
 }
